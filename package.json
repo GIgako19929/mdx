@@ -109,7 +109,7 @@
     "remark-stringify": "^11.0.0",
     "remark-strip-badges": "^7.0.0",
     "remark-toc": "^9.0.0",
-    "rollup": "^4.0.0",
+    "rollup": "^4.24.0",
     "type-coverage": "^2.0.0",
     "typescript": "^5.0.0",
     "unified": "^11.0.0",
